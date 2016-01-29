@@ -17,10 +17,6 @@ public class BTreeRunner {
 		testBtree.insert("n");
 		testBtree.insert("x");
 		
-		
-		
-		
-		
 		testBtree.printTree();
 
 	}
